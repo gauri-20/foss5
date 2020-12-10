@@ -3,6 +3,6 @@ voidmain()
 {
 printf("Hello World.....!!!");
 
-printf("\n this is the basic program");
+printf("\n this is the basic program")
 
 }
